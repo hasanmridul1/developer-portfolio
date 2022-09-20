@@ -11,10 +11,14 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 5%;
+    
 }
 .d1{
     width: 50%;
-    padding-left: 10%;
+padding-left: 5%;
+padding-right: 5%;
+    
 }
 .d1 img{
     width: 80%;
@@ -30,4 +34,7 @@ section{
 }
 .bn{
     background-image: url(bg1.png);
+}
+.bn1{
+    background-image: url(aa.png);
 }
